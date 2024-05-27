@@ -26,8 +26,8 @@ header h2{
     margin: 10px;
     padding: 10;
     display: flex;
+    justify-content: center; 
     text-align: center;
-    justify-content: center
 }
 
 .container h4{
@@ -38,6 +38,7 @@ header h2{
     margin: 20px;
     padding: 5px;
     height: 300px;
+    display: flex;
 }
 
 .container .cs2 img{
@@ -53,3 +54,4 @@ header h2{
 .container .grb img{
     margin-left: 40px;
 }
+
