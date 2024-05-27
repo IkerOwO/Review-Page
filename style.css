@@ -77,16 +77,17 @@ header h2{
 }
 
 .container .cs2 img{
-    margin-left: 40px;
+    margin-left: 20px;
     margin-right: 40px;
 }
 
 .container .cod img{
-    margin-left: 40px;
+    margin-left: 20px;
     margin-right: 40px;
 }
 
 .container .grb img{
-    margin-left: 40px;
+    justify-content: center;
+    
 }
 
